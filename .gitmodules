@@ -1,0 +1,3 @@
+[submodule "plugins/fever"]
+	path = plugins/fever
+	url = https://github.com/dasmurphy/tinytinyrss-fever-plugin.git
